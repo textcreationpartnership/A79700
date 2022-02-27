@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of prayer. To be used on Wednesday the 28th of May; being the fast-day appointed by proclamation of the Lord Lieutenant and Council. To seek reconciliation with Almighty God, and to implore him, that he would infatuate, and defeat the counsels of the papists our enemies; continue his mercies and the light of his Gospel to us, and our posterity; and bestow his abundant blessings upon His Sacred Majesty, and this present Parliament.</title>
+            <author>Church of Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79700</idno>
+            <idno type="STC">Wing C4194U</idno>
+            <idno type="STC">ESTC R171348</idno>
+            <idno type="EEBO-CITATION">45578251</idno>
+            <idno type="OCLC">ocm 45578251</idno>
+            <idno type="VID">172195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2617:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of prayer. To be used on Wednesday the 28th of May; being the fast-day appointed by proclamation of the Lord Lieutenant and Council. To seek reconciliation with Almighty God, and to implore him, that he would infatuate, and defeat the counsels of the papists our enemies; continue his mercies and the light of his Gospel to us, and our posterity; and bestow his abundant blessings upon His Sacred Majesty, and this present Parliament.</title>
+                  <author>Church of Ireland.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took and John Crook ... and are to be sold by Mary Crok at His Majesties printing-house in Skinner-Row.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By His Majesties command."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Liturgy --  Texts.</term>
+               <term>Anti-Catholicism --  Ireland.</term>
+               <term>Prayers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172195:1" rendition="simple:additions"/>
+            <p>A FORM OF PRAYER.</p>
+            <p>To be uſed on Wedneſday the 28th of <hi>May;</hi> BEING The Faſt-day Appointed by Proclamation of the Lord Lieutenant and Council.</p>
+            <p>To ſeek Reconciliation with Almighty God, and to implore him, that he would Infatuate, and Defeat the Counſels of the Papiſts our Enemies; Continue his Mercies and the Light of his Goſpel to us, and our poſterity; and beſtow his abundant Bleſſings upon His Sacred Majeſty, and this preſent Parliament.</p>
+            <p>By His Majeſties Command</p>
+            <p>DUBLIN. Printed by <hi>Benjamin Took</hi> and <hi>John Crook</hi> Printers to the Kings moſt Excellent Majeſty, and are to be ſold by <hi>Mary Crok</hi> at his Majeſties Printing-houſe in <hi>Skinner-Row.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172195:2"/>
+            <pb facs="tcp:172195:2"/>
+            <p>The Service ſhall be the ſame in all things with the Office appointed to be uſed upon <hi>Friday</hi> in every Week, if it be Holiday; Except, where it is after herein otherwiſe directed.</p>
+            <p>¶ He that Miniſtreth, ſhall begin with theſe Sentences, Joel II. 13. Dan. IX. 9, 10. Jer. X. 24.</p>
+            <div type="morning_prayer">
+               <head>Morning PRAYER.</head>
+               <head type="sub">¶In ſtead of <hi>Venite, Exultemus,</hi> ſhall this Pſalm fol<g ref="char:EOLhyphen"/>lowing be uſed; one verſe by the Miniſter, and ano<g ref="char:EOLhyphen"/>ther by the Clerk and People.</head>
+               <p>
+                  <note place="margin">Pſal. LV.I.</note>
+                  <hi>HEar my prayer, O God: and hide not thy ſelf from my petition.</hi>
+               </p>
+               <p>
+                  <note place="margin">2</note>Take heed unto me and hear me: how I mourn in my prayer, and am vexed.</p>
+               <p>
+                  <note place="margin">3</note>
+                  <hi>The enemy crieth ſo, and the ungodly cometh on ſo faſt: for they are minded to do me ſome miſchief, ſo maliciouſly are they ſet againſt me.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. LIX. 2</note>O deliver me from the wicked doers: and ſave me from the Bloud-thirſty men.</p>
+               <p>
+                  <note place="margin">Pſal. LXIV. 2.</note>
+                  <hi>Hide me from the gathering together of the froward: and from the inſurrection of wicked doers.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. LIX. 3</note>For lo, they lie waiting for my ſoul: the mighty men are gathered againſt me without any offence or fault of me, O Lord.</p>
+               <p>
+                  <note place="margin">Pſal. LXIV. 3</note>
+                  <hi>They encourage themſelves in miſchief: and commune among themſelves, how they may lay ſnares, and ſay, that no man ſhall ſee them.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. LXVIII 1.</note>Let God ariſe, and let his enemies be ſcattered: let them alſo that hate him, flee before him.</p>
+               <p>
+                  <note place="margin">2</note>
+                  <hi>Like as the ſmoke vaniſheth, ſo ſhalt thou drive them away: and like as wax melteth at
+<pb facs="tcp:172195:3"/> the fire, ſo let the ungodly periſh at the preſence of God.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. LXX. 2</note>Let them be aſhamed and confounded, that ſeek after my ſoul: let them be turned backward and put to confuſion, that wiſh me evil.</p>
+               <p>
+                  <note place="margin">Pſa LIX. 13</note>
+                  <hi>Conſume them in thy wrath, conſume them, that they may periſh: and know that it is God that ruleth in Iacob, and unto the ends of the world</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſa. LXXIX, 9</note>Help us, O God of our ſalvation, for the Glory of thy Name: O deliver us, and be merciful unto our ſins for thy Names ſake.</p>
+               <p>
+                  <note place="margin">Pſal. Lxxxvi, 5</note>
+                  <hi>For thou, Lord, art good and gracious: and of great mercy unto all them that call upon thee.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. LIV, 4.</note>Behold, God is my helper: the Lord is with them that uphold my ſoul.</p>
+               <p>
+                  <note place="margin">Pſa. Lxxxiv, 17</note>
+                  <hi>Shew ſome token upon me for good, that they who hate me may ſee it and be aſhamed: becauſe thou, Lord, haſt holpen me and comforted me.</hi>
+               </p>
+               <p>
+                  <note place="margin">Palſ. LXI 6.</note>Thou ſhalt grant the King a long life: that his years may endure throughout all generations.</p>
+               <p>
+                  <note place="margin">7.</note>
+                  <hi>He ſhall dwell before God for ever: O prepare thy loving mercy and faithfulneſs, that they may preſerve him.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. Lxxix, 14</note>So we that are thy people and ſheep of thy paſture, ſhall give thee thanks for ever: and will alway be ſhew<g ref="char:EOLhyphen"/>ing forth thy praiſe from generation to generation,</p>
+               <p>
+                  <hi>Glory be to the Father, and to the Son: and to the holy Ghoſt;</hi>
+               </p>
+               <p>As it was in the beginning, is now, and ever ſhall be: world without end. Amen.</p>
+               <p>Proper Pſalms. LI.XXXII.LXXXIII.XX.</p>
+               <p>The firſt Leſſon. Iſaiah I.</p>
+               <p>The Second Leſſon. Luc. XIII. or Acts XXIII.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172195:3"/>
+               <head>¶ Inſtead of the Collect for the Day, ſhall be uſed this, which followeth, both in Morning, and Evening Prayer, and in the Communion-Service.</head>
+               <p>ALmighty God, who of thy Great Mercy toward us haſt diſcovered the Deſigns, and diſappointed the Attempts of thoſe Popiſh Conſpirators, who un<g ref="char:EOLhyphen"/>der the pretence of Religion, and thy moſt Holy Name, had contriv'd our Deſtruction, and labour'd by the moſt unjuſtifiable Methods of Treaſon, and Murther, and the Aſſaſſination of His Majeſties Sacred Perſon, to introduce the Tyranny of a foreign power, and the Abomination of Superſtitious Worſhip, and thereby to enſlave both the bodies and ſouls of thy ſervants, and to extinguiſh the bleſſed light of thy holy Goſpel amongſt us: We yield thee praiſe, and thanks for this thine in<g ref="char:EOLhyphen"/>finite goodneſs to us; imploring thy Grace and Fa<g ref="char:EOLhyphen"/>vour in the farther Diſcovery of theſe depths of Satan, this myſtery of iniquity. Send forth thy Light, and thy Truth, and let them preſerve us. Pro<g ref="char:EOLhyphen"/>tect, and defend our Sovereign Lord the King Bind up his ſoul in the bundle of life, and let no Weapon form'd againſt him proſper. Cloth all his enemies with ſhame; but upon Himſelf, and His Poſterity let the Crown ever flouriſh. To this end Bleſs the preſent Parliament now Aſſembled, and knit together the Hearts of this whole Nation, as the heart of one man, in the defence of our King, our Laws, and our Religion. Teach us to know, at leaſt in this our Day, the things which belong to our peace, and let them not be hid from our Eyes. Remove from among us the Accurſed Thing; thoſe perſonal and thoſe pub<g ref="char:EOLhyphen"/>lick Guilts, the cry whereof is gone up to Heaven, and calls aloud for Vengeance. And grant, that being by true repentance reconcil'd to thee our God, we may alſo be united by Chriſtian Love, and Charity to one another: So that we walking in the paths of thy holy
+<pb facs="tcp:172195:4"/> Law, thou maiſt continue the Bleſsing thereof to us and our poſterity, and we All may continue to give thee Thanks for ever, and ſhew forth thy praiſe from Generation to Generation; through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ In the end of the Litany, after the Collect <hi>[We humbly beſeech thee, O Father, &amp;c.]</hi> ſhall be read in this Order, The Col<g ref="char:EOLhyphen"/>lect for <hi>Aſh-wedneſday,</hi> The Three Collects in the Commi<g ref="char:EOLhyphen"/>nation, the Collect for XXI. Sunday after Trinity, The Prayer for the High Court of Parliament, and this which fol<g ref="char:EOLhyphen"/>loweth. <hi>For Deliverance from the Papiſts our Enemies;</hi> Taken out of the Office for the Fifth of <hi>November.</hi>
+               </head>
+               <p>ALmighty God, who haſt in all ages ſhewed thy Power and Mercy in the miraculous and gra<g ref="char:EOLhyphen"/>cious deliverances of thy Church, and in the Prote<g ref="char:EOLhyphen"/>ction of righteous and religious Kings and States, profeſſing thy holy and eternal Truth, from the wicked Conſpiracies, and malicious practices of all the ene<g ref="char:EOLhyphen"/>mies thereof; Be thou ſtill our mighty Protector, and ſcatter our enemies that delight in Bloud: infatuate and defeat their Councels, abate their Pride, aſ<g ref="char:EOLhyphen"/>ſwage their Malice, and confound their Devices: Strengthen the hands of our gracious King <hi>CHARLES</hi> and all that are put in Authority under him, with Iudgment and Iuſtice, to cut off all ſuch workers of Iniquity, as turn Religion into Rebellion, and Faith into Faction; that they may never prevail againſt us, or triumph in the ruine of thy Church among us: But that our gracious Sovereign and his Realms being preſerved in thy true Religion, and by thy merciful goodneſs protected in the ſame, we may all duly ſerve theé, and give thee thanks in thy holy Congregation, through Ieſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Then the Prayer of <hi>S. Chryſoſtom.</hi>
+                  </hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172195:4"/>
+               <head>At the Communion-Service. The Epiſtle 1 Cor. X. 1. to v. 16. Or for the Epiſtle, Joel II. 11: <hi>The day of the Lord, &amp;c.</hi> to v. 19. The Goſpel, Matth. XXI. 33. <hi>There was, &amp;c.</hi> to v. 42. Or Matth. VI. 16. to v. 22. ¶ Immediatly after the Prayer <hi>For the whole ſtate of Chriſts Church,</hi> ſhall this be uſed.</head>
+               <p>GLorious, and gracious God; who's Iudgments againſt obſtinate Offenders are moſt ſevere, and terrible; but thy Mercies infinite to All, that with hearty Repentance, and true Faith turn unto theé: We ſinful people of this Land do acknowledge before theé, to thy Glory, and our own ſhame, that never any Nation had more Experience of thy Goodneſs; nor yet did ever any more unthankfully abuſe it. When thou gaveſt us great, and long proſperity, we fed our ſelves to the full, waxed fat, and kicked againſt theé. When thou threweſt us into horrid Confuſions, from which we ſaw then little hope of ariſing; even in the time of that diſtreſs did we treſpaſs yet more againſt theé. When by Miracles of Mercy thou hadſt turn'd our Captivities; we ſoon return'd to Folly, to our vomit, and to our wallowing in our former, or greater Filthineſs. Even while thou haſt of late appear'd for us by diſcovering the Plots and Contrivances of our implacable Ene<g ref="char:EOLhyphen"/>mies of the Romiſh Faction, we have beén in the mean time by our ſins fighting againſt Heaven, and againſt theé. And now we are no more worthy to be called either thy ſons, or thy ſervants; whom neither thy Fear hath driven, nor thy Goodneſs led to Repen<g ref="char:EOLhyphen"/>tance. In Mercy awaken our drowſie Conſciences. Soften, and ſubdue our hard hearts into deép con<g ref="char:EOLhyphen"/>trition. Pardon the many great offences of us thy ſervants, and the crying ſins of the whole Nation Remove the Evils we now lie under. Avert the
+<pb facs="tcp:172195:5"/> Iudgments, which we juſtly fear, becauſe we moſt juſtly deſerve. Diſcover more and more the ſnares of Death and Popiſh Treachery: and let us never fall into the hands of thoſe men, who's mercies are cruel. Vnite all our hearts in the profeſsion of the true Religion, which thine own right hand hath plan<g ref="char:EOLhyphen"/>ted among us, and in a holy Converſation anſwerable thereunto. Pour out thy abundant Bleſsings upon our Gracious King, and his great Council, the pre<g ref="char:EOLhyphen"/>ſent Parliament: Keep him as the Apple of thine Eye; hide him under the ſhadow of thy wings. In<g ref="char:EOLhyphen"/>form his Princes after thy will, and teach his Sena<g ref="char:EOLhyphen"/>tors Wiſdom: And grant that all their Counſels, Reſolutions, and Endeavours may tend to, and end in the Glory of thy great Name, the preſervation of thy Church, and true Religion among us, and the ſecurity, peace; and proſperity of theſe Kingdoms: All which we humbly beg in the Name, and through the Mediation of Ieſus Chriſt thy Son, our Savi<g ref="char:EOLhyphen"/>our. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Evening PRAYER.</head>
+               <list>
+                  <item>Proper Pſalms, XXI, XLVI.LVII, CXLIII.</item>
+                  <item>The Firſt Leſſon, Iſaiah LVIII.</item>
+                  <item>The Second Leſſon, Rom. XIII.</item>
+               </list>
+               <p>¶ Immediate<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y after the Collect <hi>[Lighten our darkneſs]</hi> ſhall be read, in this Order, The Collect for <hi>Aſh-Wedneſday,</hi> The three Collects in the Commination, and the Collect for the XXI. Sunday after Trinity.</p>
+               <p>¶ And after the Prayer for the High Court of Parliament, ſhall be added that for Deliverance from the Papiſts our Enemies, and the Prayer [<hi>Glorious and gracious God,</hi> &amp;c.] as they are ſet down before in the Morning-Service.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172195:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
